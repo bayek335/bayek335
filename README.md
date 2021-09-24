@@ -1,8 +1,10 @@
-- 👋 Hi, I’m bayu pamungkas
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning front-end development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi, there I'm Bayu Pamungkas
+I'm interested in web development but I have passionate in Web Programming, Game Programming, and Animation.
+And now I'm learning what I interested wheter it's Front End or Back End development all anout Web Development
+
+I have graduate On June 2021 from SMK Negeri 1 Kepanjen
+# Contact
+- Email : baypamungkas.com@gmail.com
 
 <!---
 bayek335/bayek335 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
