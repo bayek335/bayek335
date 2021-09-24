@@ -2,7 +2,7 @@
 I'm interested in web development but I have passionate in Web Programming, Game Programming, and Animation.
 And now I'm learning what I interested wheter it's Front End or Back End development all anout Web Development
 
-I have graduate On June 2021 from SMK Negeri 1 Kepanjen
+I have graduated in June 2021 from SMK Negeri 1 Kepanjen
 # Contact
 - Email : baypamungkas.com@gmail.com
 
