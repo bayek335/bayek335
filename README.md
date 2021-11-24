@@ -4,7 +4,7 @@ And now I'm learning what I interested wheter it's Front End or Back End develop
 
 I have graduated in June 2021 from SMK Negeri 1 Kepanjen
 # Contact
-- Email : baypamungkas.com@gmail.com
+- Email : bpamungkas.com@gmail.com
 
 <!---
 bayek335/bayek335 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
